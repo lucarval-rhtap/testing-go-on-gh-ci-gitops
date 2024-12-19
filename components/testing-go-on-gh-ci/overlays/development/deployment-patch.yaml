@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/lucarval-rhtap/testing-go-on-gh-ci:github-4e6706294cc3c51a9498fc61c6028864a67bf080
+        - image: quay.io/lucarval-rhtap/testing-go-on-gh-ci:github-13ab97d3d2eb1847e8a7eb3ffb47d30a6966615a
           name: container-image
